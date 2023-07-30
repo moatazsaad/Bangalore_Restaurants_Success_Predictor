@@ -24,7 +24,7 @@ def prediction(online_order , book_table , votes , location , approx_cost , list
     return result
     
 def main():
-    st.title("Bangalore Restaurant Success Predictor")
+    st.title("Bangalore Restaurants Success Predictor")
     online_order = st.selectbox("Online Ordering" , ['Yes', 'No'])
     book_table = st.selectbox("Table Booking" , ['Yes', 'No'])
     votes = st.slider("votes" , min_value= 0 , max_value=16832 , value=0,step=1)
