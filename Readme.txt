@@ -1,1 +1,1 @@
-https://bangalore-restaurants-success-predictor-bzcfamtkwzd9exwhdmgapp.streamlit.app/
+https://bangalorerestaurantssuccesspredictor-hiqbmzqrb9e69wmcctdbbk.streamlit.app/
